@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CMOD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <MODACT>
+    <NAME>ZAGTEST</NAME>
+   </MODACT>
+   <MODTEXT>
+    <MODTEXT>
+     <SPRSL>E</SPRSL>
+     <NAME>ZAGTEST</NAME>
+     <MODTEXT>Test</MODTEXT>
+    </MODTEXT>
+   </MODTEXT>
+   <MODATTR>
+    <MODATTR>
+     <NAME>ZAGTEST</NAME>
+     <CNAM>BERNARDMA</CNAM>
+     <CDAT>2020-09-25</CDAT>
+     <UNAM>BERNARDMA</UNAM>
+     <UDAT>2020-09-25</UDAT>
+     <STATUS>A</STATUS>
+     <ANAM>BERNARDMA</ANAM>
+     <ADAT>2020-09-25</ADAT>
+    </MODATTR>
+   </MODATTR>
+  </asx:values>
+ </asx:abap>
+</abapGit>
